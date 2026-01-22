@@ -1,0 +1,230 @@
+=================================================================
+ADAPTIVE BDD TRAINING MODEL (ABTM) RESEARCH STUDY
+Demographic Questionnaire
+=================================================================
+
+Participant ID: _______________
+Date: _______________
+
+INSTRUCTIONS: Please answer all questions honestly. All information 
+will be kept confidential and used only for research purposes.
+
+-----------------------------------------------------------------
+SECTION A: BACKGROUND INFORMATION
+-----------------------------------------------------------------
+
+1. Age Range:
+   ☐ 18-25 years
+   ☐ 26-35 years
+   ☐ 36-45 years
+   ☐ 46-55 years
+   ☐ 56+ years
+
+2. Gender:
+   ☐ Male
+   ☐ Female
+   ☐ Non-binary
+   ☐ Prefer not to say
+
+3. Highest Educational Level:
+   ☐ High School Diploma
+   ☐ Associate Degree
+   ☐ Bachelor's Degree
+   ☐ Master's Degree
+   ☐ Ph.D. or Doctoral Degree
+   ☐ Professional Certification
+   ☐ Other: _________________
+
+4. Field of Study/Degree:
+   ☐ Computer Science
+   ☐ Software Engineering
+   ☐ Information Technology
+   ☐ Business/Management
+   ☐ Engineering (other)
+   ☐ Other: _________________
+
+-----------------------------------------------------------------
+SECTION B: PROFESSIONAL EXPERIENCE
+-----------------------------------------------------------------
+
+5. Current Role:
+   ☐ Software Developer
+   ☐ QA/Test Engineer
+   ☐ Product Owner
+   ☐ Business Analyst
+   ☐ Scrum Master
+   ☐ Project Manager
+   ☐ Other: _________________
+
+6. Years of Experience in Current Role:
+   ☐ Less than 1 year
+   ☐ 1-3 years
+   ☐ 4-6 years
+   ☐ 7-10 years
+   ☐ More than 10 years
+
+7. Total Years of Experience in Software Development:
+   ☐ Less than 1 year
+   ☐ 1-3 years
+   ☐ 4-6 years
+   ☐ 7-10 years
+   ☐ More than 10 years
+
+8. Team Size (number of people you work with regularly):
+   ☐ 1-3 people
+   ☐ 4-7 people
+   ☐ 8-12 people
+   ☐ 13-20 people
+   ☐ More than 20 people
+
+9. Organization Type:
+   ☐ Startup (< 50 employees)
+   ☐ Small/Medium Business (50-500 employees)
+   ☐ Large Enterprise (> 500 employees)
+   ☐ Government/Public Sector
+   ☐ Academic Institution
+   ☐ Freelance/Consultant
+   ☐ Student
+   ☐ Other: _________________
+
+-----------------------------------------------------------------
+SECTION C: AGILE AND TESTING EXPERIENCE
+-----------------------------------------------------------------
+
+10. Agile Methodology Experience:
+    ☐ No experience
+    ☐ Less than 6 months
+    ☐ 6 months - 1 year
+    ☐ 1-2 years
+    ☐ 2-5 years
+    ☐ More than 5 years
+
+11. Agile Methodologies Used (select all that apply):
+    ☐ Scrum
+    ☐ Kanban
+    ☐ XP (Extreme Programming)
+    ☐ SAFe (Scaled Agile Framework)
+    ☐ Lean
+    ☐ Other: _________________
+    ☐ None
+
+12. Test-Driven Development (TDD) Experience:
+    ☐ Never used
+    ☐ Heard of it but never used
+    ☐ Used occasionally
+    ☐ Used regularly (weekly)
+    ☐ Use daily
+
+13. Automated Testing Experience:
+    ☐ No experience
+    ☐ Basic (can write simple tests)
+    ☐ Intermediate (write tests regularly)
+    ☐ Advanced (design test frameworks)
+    ☐ Expert (lead testing initiatives)
+
+14. Testing Tools/Frameworks Used (select all that apply):
+    ☐ JUnit/TestNG
+    ☐ Selenium
+    ☐ Cucumber
+    ☐ SpecFlow
+    ☐ JBehave
+    ☐ Pytest
+    ☐ Mocha/Jest
+    ☐ Other: _________________
+    ☐ None
+
+-----------------------------------------------------------------
+SECTION D: BDD-SPECIFIC EXPERIENCE
+-----------------------------------------------------------------
+
+15. Prior BDD Experience:
+    ☐ No prior experience with BDD
+    ☐ Read about BDD but never used it
+    ☐ Attempted BDD in one project
+    ☐ Used BDD in multiple projects
+    ☐ Regularly use BDD (current practice)
+
+16. Gherkin Language Familiarity:
+    ☐ Never heard of it
+    ☐ Heard of it but never used it
+    ☐ Have read Gherkin scenarios
+    ☐ Have written Gherkin scenarios
+    ☐ Write Gherkin scenarios regularly
+
+17. If you have BDD experience, for how long?
+    ☐ Not applicable
+    ☐ Less than 3 months
+    ☐ 3-6 months
+    ☐ 6 months - 1 year
+    ☐ 1-2 years
+    ☐ More than 2 years
+
+18. BDD Tools Used (select all that apply):
+    ☐ Cucumber (Java)
+    ☐ Cucumber (Ruby)
+    ☐ Cucumber (JavaScript)
+    ☐ SpecFlow (.NET)
+    ☐ Behave (Python)
+    ☐ JBehave
+    ☐ Other: _________________
+    ☐ None
+
+-----------------------------------------------------------------
+SECTION E: LEARNING PREFERENCES
+-----------------------------------------------------------------
+
+19. Preferred Learning Style (select all that apply):
+    ☐ Reading documentation
+    ☐ Watching video tutorials
+    ☐ Hands-on practice
+    ☐ Live instruction/lectures
+    ☐ Peer collaboration
+    ☐ Self-paced online courses
+    ☐ Workshops/bootcamps
+
+20. English Language Proficiency:
+    ☐ Native speaker
+    ☐ Fluent (C2)
+    ☐ Advanced (C1)
+    ☐ Upper-Intermediate (B2)
+    ☐ Intermediate (B1)
+    ☐ Below Intermediate
+
+21. How do you typically approach learning new technical skills?
+    ☐ Structured courses with clear steps
+    ☐ Trial and error / experimentation
+    ☐ Studying examples from others
+    ☐ Reading official documentation
+    ☐ Combination of methods
+
+-----------------------------------------------------------------
+SECTION F: MOTIVATION AND EXPECTATIONS
+-----------------------------------------------------------------
+
+22. Why are you interested in learning BDD? (select all that apply):
+    ☐ Improve test quality
+    ☐ Better communication with stakeholders
+    ☐ Career advancement
+    ☐ Team/organization requirement
+    ☐ Improve development process
+    ☐ Personal interest/curiosity
+    ☐ Academic requirement
+    ☐ Other: _________________
+
+23. What do you hope to achieve from this training?
+    ☐ Write high-quality BDD scenarios
+    ☐ Understand BDD principles
+    ☐ Automate BDD tests
+    ☐ Collaborate better with team
+    ☐ Apply BDD in real projects
+    ☐ All of the above
+
+24. Expected Time Commitment (hours per week):
+    ☐ 1-3 hours
+    ☐ 4-6 hours
+    ☐ 7-10 hours
+    ☐ More than 10 hours
+
+=================================================================
+Thank you for completing this questionnaire!
+=================================================================

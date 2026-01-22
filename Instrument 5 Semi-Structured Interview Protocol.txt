@@ -1,0 +1,259 @@
+=================================================================
+ADAPTIVE BDD TRAINING MODEL (ABTM) RESEARCH STUDY
+Post-Training Semi-Structured Interview Protocol
+=================================================================
+
+Interviewer: _______________
+Participant ID: _______________
+Date: _______________
+Interview Duration: ___________ minutes
+
+INTERVIEW GUIDELINES:
+- Duration: 30-45 minutes
+- Location: Private, quiet space (or video call)
+- Recording: Audio recorded with participant consent
+- Approach: Semi-structured (follow-up questions encouraged)
+- Tone: Conversational and non-judgmental
+
+OPENING SCRIPT:
+"Thank you for agreeing to participate in this interview. The purpose 
+is to understand your experience with the Adaptive BDD Training Model. 
+There are no right or wrong answers - I'm interested in your honest 
+opinions and experiences. With your permission, I'd like to audio 
+record this conversation for transcription purposes. The recording will 
+be kept confidential and used only for research purposes. Do I have 
+your permission to record?"
+
+☐ Permission granted  ☐ Permission denied
+
+-----------------------------------------------------------------
+SECTION A: BACKGROUND AND PRIOR EXPERIENCE (5 minutes)
+-----------------------------------------------------------------
+
+1. Can you briefly describe your role and experience with software 
+   development before this training?
+
+   Probe: Years of experience? Team size? Agile experience?
+
+   _________________________________________________________________
+
+2. What was your prior knowledge of BDD before starting this training?
+
+   Probe: Had you heard of it? Used it? What did you know about it?
+
+   _________________________________________________________________
+
+3. What motivated you to participate in this BDD training?
+
+   Probe: Personal interest? Team requirement? Career goals?
+
+   _________________________________________________________________
+
+-----------------------------------------------------------------
+SECTION B: LEARNING EXPERIENCE (10 minutes)
+-----------------------------------------------------------------
+
+4. How would you describe your overall experience with the training?
+
+   Probe: Positive? Challenging? Engaging?
+
+   _________________________________________________________________
+
+5. What aspects of the training did you find most helpful?
+
+   Probe: Specific modules? Hands-on practice? Examples? Feedback?
+
+   _________________________________________________________________
+
+6. What aspects of the training were most challenging?
+
+   Probe: Concepts? Gherkin syntax? Practical application?
+
+   _________________________________________________________________
+
+7. The training used an adaptive approach that adjusted based on 
+   your performance. How did you experience this adaptability?
+
+   Probe: Did you notice adjustments? Helpful? Frustrating? 
+         Examples of adaptations?
+
+   _________________________________________________________________
+
+8. How effective was the personalized feedback you received on your 
+   scenario submissions?
+
+   Probe: Clarity of feedback? Timeliness? Helpfulness? Specificity?
+
+   _________________________________________________________________
+
+9. Were there any topics or areas where you felt you needed more 
+   support or practice?
+
+   Probe: What additional resources would have helped?
+
+   _________________________________________________________________
+
+-----------------------------------------------------------------
+SECTION C: SKILL DEVELOPMENT (10 minutes)
+-----------------------------------------------------------------
+
+10. How confident do you feel now in writing BDD scenarios compared 
+    to before the training?
+
+    Probe: Rate on 1-10 scale? Specific improvements?
+
+    _________________________________________________________________
+
+11. Can you give me an example of something you learned that changed 
+    how you think about requirements or testing?
+
+    Probe: Specific "aha" moments? New perspectives?
+
+    _________________________________________________________________
+
+12. How has the training affected your understanding of Gherkin 
+    syntax and best practices?
+
+    Probe: Common mistakes learned to avoid? Improved quality?
+
+    _________________________________________________________________
+
+13. Do you feel the training prepared you to use BDD in real projects?
+
+    Probe: What makes you feel prepared/unprepared?
+
+    _________________________________________________________________
+
+-----------------------------------------------------------------
+SECTION D: COLLABORATION AND COMMUNICATION (8 minutes)
+-----------------------------------------------------------------
+
+14. [If applicable] How has the training affected how you communicate 
+    with other team members (developers, testers, product owners)?
+
+    Probe: Shared language? Clearer communication?
+
+    _________________________________________________________________
+
+15. Do you think BDD scenarios could improve collaboration on your 
+    team? Why or why not?
+
+    Probe: How specifically? Challenges to adoption?
+
+    _________________________________________________________________
+
+16. How might BDD help bridge communication gaps between technical 
+    and non-technical stakeholders?
+
+    Probe: Examples? Potential benefits?
+
+    _________________________________________________________________
+
+-----------------------------------------------------------------
+SECTION E: PRACTICAL APPLICATION (7 minutes)
+-----------------------------------------------------------------
+
+17. Do you plan to use BDD in your work after this training?
+
+    Probe: Why or why not? What would enable/prevent you?
+
+    _________________________________________________________________
+
+18. What do you see as the main benefits of using BDD?
+
+    Probe: Quality? Clarity? Automation? Communication?
+
+    _________________________________________________________________
+
+19. What do you see as the main challenges in adopting BDD?
+
+    Probe: Learning curve? Team buy-in? Time? Tools?
+
+    _________________________________________________________________
+
+20. What support or resources would you need to successfully 
+    implement BDD on your team?
+
+    Probe: Tools? Training for others? Management support?
+
+    _________________________________________________________________
+
+-----------------------------------------------------------------
+SECTION F: TRAINING MODEL EVALUATION (5 minutes)
+-----------------------------------------------------------------
+
+21. How did the adaptive/personalized nature of the training compare 
+    to other technical training you've experienced?
+
+    Probe: Better? Worse? Different? Why?
+
+    _________________________________________________________________
+
+22. What specific features of the training model did you find most 
+    valuable?
+
+    Probe: Role-specific content? Adaptive difficulty? Feedback?
+
+    _________________________________________________________________
+
+23. If you could change one thing about the training, what would it be?
+
+    Probe: Content? Delivery? Pace? Practice opportunities?
+
+    _________________________________________________________________
+
+24. Would you recommend this training to others? Why or why not?
+
+    Probe: Who would benefit most?
+
+    _________________________________________________________________
+
+-----------------------------------------------------------------
+SECTION G: CLOSING (2-3 minutes)
+-----------------------------------------------------------------
+
+25. Is there anything else about your training experience that you'd 
+    like to share?
+
+    _________________________________________________________________
+
+26. Do you have any questions for me about the research or the 
+    training?
+
+    _________________________________________________________________
+
+CLOSING SCRIPT:
+"Thank you so much for your time and for sharing your experiences. 
+Your insights are very valuable for this research. If you think of 
+anything else you'd like to add, please feel free to contact me. 
+Have a great day!"
+
+=================================================================
+POST-INTERVIEW NOTES (Interviewer Only)
+=================================================================
+
+Setting: ________________________________________________________
+
+Participant Demeanor: ___________________________________________
+
+Notable Observations: ___________________________________________
+
+________________________________________________________________
+
+Technical Issues: _______________________________________________
+
+Themes Identified: ______________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Follow-up Needed: ☐ Yes  ☐ No
+
+If yes, details: ________________________________________________
+
+Transcription Status: ☐ Pending  ☐ Complete
+
+Transcription Date: ____________
+
+=================================================================

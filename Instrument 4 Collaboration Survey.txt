@@ -1,0 +1,201 @@
+=================================================================
+ADAPTIVE BDD TRAINING MODEL (ABTM) RESEARCH STUDY
+Team Collaboration Survey
+=================================================================
+
+Participant ID: _______________
+Date: _______________
+Survey Type: ☐ Pre-Training  ☐ Post-Training
+
+INSTRUCTIONS: Rate your level of agreement with each statement using 
+the following scale:
+
+1 = Strongly Disagree
+2 = Disagree
+3 = Neutral
+4 = Agree
+5 = Strongly Agree
+
+-----------------------------------------------------------------
+SECTION A: COMMUNICATION WITH STAKEHOLDERS
+-----------------------------------------------------------------
+
+1. I can clearly communicate technical requirements to 
+   non-technical stakeholders.
+   
+   1    2    3    4    5
+
+2. Business stakeholders understand the acceptance criteria 
+   I write/contribute to.
+   
+   1    2    3    4    5
+
+3. There is minimal miscommunication between developers and 
+   product owners on my team.
+   
+   1    2    3    4    5
+
+4. Requirements are clearly understood by all team members 
+   before development begins.
+   
+   1    2    3    4    5
+
+5. Our team has a shared vocabulary for discussing system behavior.
+   
+   1    2    3    4    5
+
+-----------------------------------------------------------------
+SECTION B: TEAM COLLABORATION
+-----------------------------------------------------------------
+
+6. Developers, testers, and product owners collaborate effectively 
+   on requirement definition.
+   
+   1    2    3    4    5
+
+7. Our team discusses examples and edge cases together before 
+   implementing features.
+   
+   1    2    3    4    5
+
+8. Team members from different roles (dev, QA, PO) understand 
+   each other's perspectives.
+   
+   1    2    3    4    5
+
+9. Our team resolves ambiguities in requirements through 
+   collaborative discussion.
+   
+   1    2    3    4    5
+
+10. All team members contribute to defining "done" for user stories.
+    
+    1    2    3    4    5
+
+-----------------------------------------------------------------
+SECTION C: SHARED UNDERSTANDING
+-----------------------------------------------------------------
+
+11. My team has a common understanding of what each feature 
+    should do.
+    
+    1    2    3    4    5
+
+12. Acceptance criteria are clear enough that anyone on the 
+    team could verify them.
+    
+    1    2    3    4    5
+
+13. When features are developed, they match what stakeholders 
+    expected.
+    
+    1    2    3    4    5
+
+14. Our team rarely experiences rework due to misunderstood 
+    requirements.
+    
+    1    2    3    4    5
+
+15. Documentation/specifications are easily understood by 
+    all team members.
+    
+    1    2    3    4    5
+
+-----------------------------------------------------------------
+SECTION D: REQUIREMENT QUALITY
+-----------------------------------------------------------------
+
+16. Requirements on my team are specific and testable.
+    
+    1    2    3    4    5
+
+17. Acceptance criteria cover both happy paths and edge cases.
+    
+    1    2    3    4    5
+
+18. Our team avoids vague terms like "properly" or "correctly" 
+    in requirements.
+    
+    1    2    3    4    5
+
+19. Requirements include concrete examples that illustrate 
+    expected behavior.
+    
+    1    2    3    4    5
+
+20. Our acceptance criteria are written in a way that enables 
+    automation.
+    
+    1    2    3    4    5
+
+-----------------------------------------------------------------
+SECTION E: TESTING AND QUALITY
+-----------------------------------------------------------------
+
+21. Our team discusses testing scenarios during requirement 
+    discussions.
+    
+    1    2    3    4    5
+
+22. Test cases are aligned with business requirements.
+    
+    1    2    3    4    5
+
+23. Testing feedback is easily understood by non-technical 
+    stakeholders.
+    
+    1    2    3    4    5
+
+24. Our automated tests serve as living documentation of 
+    system behavior.
+    
+    1    2    3    4    5
+
+25. Quality issues are identified early in the development process.
+    
+    1    2    3    4    5
+
+-----------------------------------------------------------------
+SECTION F: OVERALL SATISFACTION
+-----------------------------------------------------------------
+
+26. I am satisfied with how requirements are communicated 
+    on my team.
+    
+    1    2    3    4    5
+
+27. Our team's collaboration practices are effective.
+    
+    1    2    3    4    5
+
+28. I feel confident in my ability to contribute to requirement 
+    discussions.
+    
+    1    2    3    4    5
+
+29. Our team's approach to defining and testing requirements 
+    is efficient.
+    
+    1    2    3    4    5
+
+30. I believe our current practices lead to high-quality software.
+    
+    1    2    3    4    5
+
+=================================================================
+SCORING (For Researchers Only)
+=================================================================
+
+Communication Score (Q1-5): _____ / 25
+Collaboration Score (Q6-10): _____ / 25
+Shared Understanding (Q11-15): _____ / 25
+Requirement Quality (Q16-20): _____ / 25
+Testing & Quality (Q21-25): _____ / 25
+Overall Satisfaction (Q26-30): _____ / 25
+
+TOTAL COLLABORATION SCORE: _____ / 150
+
+Normalized Score (0-5): _____ 
+(Total Score / 150) × 5
+
+=================================================================

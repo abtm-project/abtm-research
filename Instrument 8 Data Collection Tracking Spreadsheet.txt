@@ -1,0 +1,56 @@
+Participant Tracking Sheet
+==========================
+
+Columns:
+- Participant_ID
+- Enrollment_Date
+- Role (Developer/Tester/PO)
+- Study_Group (Experimental/Control)
+
+Demographic_Complete (Yes/No/Partial)
+Pre_Knowledge_Quiz_Score (0-100)
+Pre_Knowledge_Quiz_Date
+Pre_Scenario_Avg_SQS (0-5)
+Pre_Scenario_Date
+Pre_Collaboration_Score (0-5)
+Pre_Collaboration_Date
+
+Module1_Complete (Yes/No)
+Module1_Date
+Module1_Attempts (1,2,3+)
+Module2_Complete (Yes/No)
+Module2_Date
+Module2_Attempts (1,2,3+)
+Module3_Complete (Yes/No)
+Module3_Date
+Module3_Attempts (1,2,3+)
+Module4_Complete (Yes/No)
+Module4_Date
+Module4_Attempts (1,2,3+)
+
+Total_Training_Hours
+Adaptations_Triggered (count)
+Remedial_Modules_Completed (count)
+
+Post_Knowledge_Quiz_Score (0-100)
+Post_Knowledge_Quiz_Date
+Post_Scenario_Avg_SQS (0-5)
+Post_Scenario_Date
+Post_Collaboration_Score (0-5)
+Post_Collaboration_Date
+
+Knowledge_Gain (Post - Pre)
+SQS_Improvement (Post - Pre)
+Collaboration_Improvement (Post - Pre)
+
+Training_Feedback_Score (0-5)
+Training_Feedback_Date
+Interview_Complete (Yes/No)
+Interview_Date
+Interview_Duration_Minutes
+
+Completion_Status (Complete/Incomplete/Dropout)
+Dropout_Stage (if applicable)
+Dropout_Reason (if known)
+
+Notes

@@ -1,0 +1,220 @@
+=================================================================
+ADAPTIVE BDD TRAINING MODEL (ABTM) RESEARCH STUDY
+Scenario Writing Exercise
+=================================================================
+
+Participant ID: _______________
+Date: _______________
+Assessment Type: ☐ Pre-Training  ☐ Post-Training
+Role: ☐ Developer  ☐ Tester  ☐ Product Owner/BA
+
+INSTRUCTIONS: You will be given 3 user stories. For each user story, 
+write BDD scenarios using Gherkin syntax (Given-When-Then format). 
+You have 30 minutes to complete all three scenarios.
+
+EVALUATION: Your scenarios will be scored on:
+- Clarity and readability
+- Business value alignment  
+- Gherkin correctness
+- Testability and automation readiness
+- Specificity and precision
+- Avoidance of duplication
+
+-----------------------------------------------------------------
+USER STORY 1: E-COMMERCE CHECKOUT
+-----------------------------------------------------------------
+
+As a customer
+I want to apply a discount code at checkout
+So that I can receive a price reduction on my order
+
+BUSINESS RULES:
+- Discount codes must be valid (not expired)
+- Each code can only be used once per customer
+- Discount is applied to order total before tax
+- Invalid codes should show an error message
+
+Write at least 2 scenarios for this user story:
+
+Scenario 1: _____________________________________________________
+
+Feature: ________________________________________________________
+
+Scenario: _______________________________________________________
+
+Given ___________________________________________________________
+
+And _____________________________________________________________
+
+When ____________________________________________________________
+
+Then ____________________________________________________________
+
+And _____________________________________________________________
+
+----------------------------------------------------------------
+
+Scenario 2: _____________________________________________________
+
+Feature: ________________________________________________________
+
+Scenario: _______________________________________________________
+
+Given ___________________________________________________________
+
+And _____________________________________________________________
+
+When ____________________________________________________________
+
+Then ____________________________________________________________
+
+And _____________________________________________________________
+
+-----------------------------------------------------------------
+USER STORY 2: BANKING FUND TRANSFER
+-----------------------------------------------------------------
+
+As a bank customer
+I want to transfer money between my accounts
+So that I can manage my finances
+
+BUSINESS RULES:
+- Customer must be logged in
+- Source account must have sufficient balance
+- Transfer amount must be greater than $0
+- Both accounts must belong to the same customer
+- Customer receives confirmation after successful transfer
+
+Write at least 2 scenarios for this user story:
+
+Scenario 1: _____________________________________________________
+
+Feature: ________________________________________________________
+
+Scenario: _______________________________________________________
+
+Given ___________________________________________________________
+
+And _____________________________________________________________
+
+When ____________________________________________________________
+
+Then ____________________________________________________________
+
+And _____________________________________________________________
+
+----------------------------------------------------------------
+
+Scenario 2: _____________________________________________________
+
+Feature: ________________________________________________________
+
+Scenario: _______________________________________________________
+
+Given ___________________________________________________________
+
+And _____________________________________________________________
+
+When ____________________________________________________________
+
+Then ____________________________________________________________
+
+And _____________________________________________________________
+
+-----------------------------------------------------------------
+USER STORY 3: HEALTHCARE APPOINTMENT BOOKING
+-----------------------------------------------------------------
+
+As a patient
+I want to book an appointment with a doctor
+So that I can receive medical consultation
+
+BUSINESS RULES:
+- Patient must be registered in the system
+- Selected time slot must be available
+- Appointment must be at least 24 hours in advance
+- Patient receives confirmation email
+- Doctor's calendar is updated
+
+Write at least 2 scenarios for this user story:
+
+Scenario 1: _____________________________________________________
+
+Feature: ________________________________________________________
+
+Scenario: _______________________________________________________
+
+Given ___________________________________________________________
+
+And _____________________________________________________________
+
+When ____________________________________________________________
+
+Then ____________________________________________________________
+
+And _____________________________________________________________
+
+----------------------------------------------------------------
+
+Scenario 2: _____________________________________________________
+
+Feature: ________________________________________________________
+
+Scenario: _______________________________________________________
+
+Given ___________________________________________________________
+
+And _____________________________________________________________
+
+When ____________________________________________________________
+
+Then ____________________________________________________________
+
+And _____________________________________________________________
+
+=================================================================
+EVALUATION FORM (For Graders Only)
+=================================================================
+
+Participant ID: _______________
+
+For each scenario, rate on scale 0-5:
+
+USER STORY 1 - Scenario 1:
+Clarity: _____  Business Value: _____  Gherkin: _____
+Testability: _____  Specificity: _____  Duplication: _____
+Overall SQS: _____
+
+USER STORY 1 - Scenario 2:
+Clarity: _____  Business Value: _____  Gherkin: _____
+Testability: _____  Specificity: _____  Duplication: _____
+Overall SQS: _____
+
+USER STORY 2 - Scenario 1:
+Clarity: _____  Business Value: _____  Gherkin: _____
+Testability: _____  Specificity: _____  Duplication: _____
+Overall SQS: _____
+
+USER STORY 2 - Scenario 2:
+Clarity: _____  Business Value: _____  Gherkin: _____
+Testability: _____  Specificity: _____  Duplication: _____
+Overall SQS: _____
+
+USER STORY 3 - Scenario 1:
+Clarity: _____  Business Value: _____  Gherkin: _____
+Testability: _____  Specificity: _____  Duplication: _____
+Overall SQS: _____
+
+USER STORY 3 - Scenario 2:
+Clarity: _____  Business Value: _____  Gherkin: _____
+Testability: _____  Specificity: _____  Duplication: _____
+Overall SQS: _____
+
+AVERAGE SQS (all 6 scenarios): _____
+
+Notes/Comments: _________________________________________________
+
+________________________________________________________________
+
+Grader Name: ________________  Date: ______________
+=================================================================

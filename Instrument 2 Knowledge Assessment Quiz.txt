@@ -1,0 +1,253 @@
+=================================================================
+ADAPTIVE BDD TRAINING MODEL (ABTM) RESEARCH STUDY
+BDD Knowledge Assessment Quiz
+=================================================================
+
+Participant ID: _______________
+Date: _______________
+Assessment Type: ☐ Pre-Training  ☐ Post-Training
+
+INSTRUCTIONS: This quiz contains 20 questions about Behavior-Driven 
+Development (BDD). Select the best answer for each question. You have 
+15 minutes to complete the quiz.
+
+-----------------------------------------------------------------
+SECTION A: BDD FUNDAMENTALS (5 questions)
+-----------------------------------------------------------------
+
+1. What is the primary purpose of Behavior-Driven Development (BDD)?
+
+   A) To replace manual testing with automated tests
+   B) To facilitate communication between technical and non-technical 
+      stakeholders about system behavior
+   C) To write code faster using test-first approach
+   D) To create detailed technical documentation
+
+   Answer: _____
+
+2. How does BDD differ from Test-Driven Development (TDD)?
+
+   A) BDD focuses on business behavior while TDD focuses on code units
+   B) BDD is only for manual testing
+   C) TDD is only for frontend development
+   D) There is no difference
+
+   Answer: _____
+
+3. Who should be involved in writing BDD scenarios?
+
+   A) Only developers
+   B) Only QA testers
+   C) Only product owners
+   D) Developers, testers, and product owners collaboratively
+
+   Answer: _____
+
+4. What is the "Three Amigos" practice in BDD?
+
+   A) A testing framework
+   B) A collaboration session between developer, tester, and 
+      product owner
+   C) A type of scenario outline
+   D) A Gherkin keyword
+
+   Answer: _____
+
+5. When should BDD scenarios be written in the development process?
+
+   A) After the code is complete
+   B) Before development begins, during requirement discussion
+   C) During the testing phase only
+   D) Only when bugs are found
+
+   Answer: _____
+
+-----------------------------------------------------------------
+SECTION B: GHERKIN SYNTAX (7 questions)
+-----------------------------------------------------------------
+
+6. What are the three main keywords in a Gherkin scenario?
+
+   A) Setup, Execute, Verify
+   B) Input, Process, Output
+   C) Given, When, Then
+   D) Start, Action, End
+
+   Answer: _____
+
+7. What does the "Given" keyword represent in Gherkin?
+
+   A) The action being performed
+   B) The expected outcome
+   C) The initial context or precondition
+   D) A comment or note
+
+   Answer: _____
+
+8. What does the "When" keyword represent in Gherkin?
+
+   A) The initial context
+   B) The action or event being tested
+   C) The expected result
+   D) An optional step
+
+   Answer: _____
+
+9. What does the "Then" keyword represent in Gherkin?
+
+   A) The next scenario
+   B) The initial setup
+   C) The expected outcome or assertion
+   D) The action performed
+
+   Answer: _____
+
+10. When should you use the "And" keyword in Gherkin?
+
+    A) To replace all Given, When, and Then keywords
+    B) To add additional steps of the same type (Given, When, or Then)
+    C) Only in the Then section
+    D) To separate different scenarios
+
+    Answer: _____
+
+11. What is a "Scenario Outline" in Gherkin?
+
+    A) A summary of all scenarios in a feature
+    B) A template for running the same scenario with different data
+    C) A way to comment out scenarios
+    D) An alternative name for a regular scenario
+
+    Answer: _____
+
+12. Which of the following is correct Gherkin syntax?
+
+    A) When user clicks button
+       Given user is logged in
+       Then page loads
+    
+    B) Given user is logged in
+       Then page loads
+       When user clicks button
+    
+    C) Given user is logged in
+       When user clicks button
+       Then page loads
+    
+    D) Then page loads
+       Given user is logged in
+       When user clicks button
+
+    Answer: _____
+
+-----------------------------------------------------------------
+SECTION C: BDD BEST PRACTICES (5 questions)
+-----------------------------------------------------------------
+
+13. Which of the following is a BDD anti-pattern?
+
+    A) Writing scenarios in business language
+    B) Including UI implementation details (e.g., "click the button")
+    C) Collaborating with stakeholders
+    D) Using concrete examples
+
+    Answer: _____
+
+14. What is the recommended approach for scenario titles?
+
+    A) Use technical jargon for precision
+    B) Use clear, business-focused descriptions
+    C) Use ticket numbers as titles
+    D) Keep them as short as possible
+
+    Answer: _____
+
+15. How should BDD scenarios handle test data?
+
+    A) Use vague terms like "some" or "many"
+    B) Use specific, concrete examples
+    C) Avoid mentioning data
+    D) Use only production data
+
+    Answer: _____
+
+16. What is the purpose of the "Background" keyword in Gherkin?
+
+    A) To add comments to scenarios
+    B) To specify steps that run before each scenario in a feature
+    C) To describe the feature purpose
+    D) To mark scenarios as incomplete
+
+    Answer: _____
+
+17. Which statement about scenario duplication is correct?
+
+    A) Duplicate scenarios are good for thorough testing
+    B) Similar scenarios should be combined using Scenario Outline
+    C) Each scenario must be completely unique
+    D) Duplication is unavoidable in BDD
+
+    Answer: _____
+
+-----------------------------------------------------------------
+SECTION D: PRACTICAL APPLICATION (3 questions)
+-----------------------------------------------------------------
+
+18. A scenario states: "Given user has some items in cart". 
+    What is wrong with this statement?
+
+    A) "Given" should be "When"
+    B) "some" is too vague; use specific number
+    C) Should mention item names
+    D) Nothing is wrong
+
+    Answer: _____
+
+19. A scenario contains multiple "When" statements. What should you do?
+
+    A) This is correct Gherkin syntax
+    B) Replace additional When statements with "And"
+    C) Remove all but the first When
+    D) Change them all to "Given"
+
+    Answer: _____
+
+20. Which scenario is better written?
+
+    Scenario A:
+    Given user is on homepage
+    When user clicks login button
+    And user enters "john@email.com" in username field
+    And user enters "pass123" in password field
+    And user clicks submit button
+    Then user sees dashboard
+
+    Scenario B:
+    Given user is on login page
+    When user logs in with email "john@email.com" and password "pass123"
+    Then user should see their dashboard
+
+    A) Scenario A (more detailed)
+    B) Scenario B (more abstract, focuses on behavior)
+    C) Both are equally good
+    D) Neither is correct
+
+    Answer: _____
+
+=================================================================
+ANSWER KEY (For Graders Only)
+=================================================================
+
+1. B    6. C    11. B    16. B
+2. A    7. C    12. C    17. B
+3. D    8. B    13. B    18. B
+4. B    9. C    14. B    19. B
+5. B    10. B   15. B    20. B
+
+SCORING:
+- Each correct answer: 5 points
+- Maximum score: 100 points
+- Minimum passing score: 70 points
+
+Knowledge Score = (Correct Answers / 20) × 100
+=================================================================

@@ -1,0 +1,197 @@
+=================================================================
+ADAPTIVE BDD TRAINING MODEL (ABTM) RESEARCH STUDY
+Training Feedback Survey
+=================================================================
+
+Participant ID: _______________
+Date: _______________
+
+INSTRUCTIONS: Please provide honest feedback about your training 
+experience. Your responses will help improve the training program.
+
+Use the following scale:
+1 = Strongly Disagree / Very Poor
+2 = Disagree / Poor
+3 = Neutral / Satisfactory
+4 = Agree / Good
+5 = Strongly Agree / Excellent
+N/A = Not Applicable
+
+-----------------------------------------------------------------
+SECTION A: CONTENT QUALITY
+-----------------------------------------------------------------
+
+1. The training objectives were clearly communicated.
+   1    2    3    4    5
+
+2. The training content was relevant to my role.
+   1    2    3    4    5
+
+3. The training covered the right amount of material.
+   1    2    3    4    5
+
+4. The examples provided were helpful and realistic.
+   1    2    3    4    5
+
+5. The training materials were well-organized.
+   1    2    3    4    5
+
+6. The difficulty level was appropriate for my knowledge level.
+   1    2    3    4    5
+
+-----------------------------------------------------------------
+SECTION B: LEARNING MODULES
+-----------------------------------------------------------------
+
+Rate each module (1=Poor, 5=Excellent):
+
+Module 1 - BDD Fundamentals:       1    2    3    4    5
+Module 2 - Gherkin Syntax:         1    2    3    4    5
+Module 3 - Role-Specific Training: 1    2    3    4    5
+Module 4 - Practical Application:  1    2    3    4    5
+
+Most valuable module: ___________________________________________
+
+Least valuable module: __________________________________________
+
+Why? ____________________________________________________________
+
+-----------------------------------------------------------------
+SECTION C: ADAPTIVE FEATURES
+-----------------------------------------------------------------
+
+7. The personalized learning path matched my skill level.
+   1    2    3    4    5
+
+8. The adaptive adjustments helped me learn more effectively.
+   1    2    3    4    5
+
+9. I received appropriate additional practice when I struggled.
+   1    2    3    4    5
+
+10. The system correctly identified my weak areas.
+    1    2    3    4    5
+
+11. I felt challenged but not overwhelmed.
+    1    2    3    4    5
+
+-----------------------------------------------------------------
+SECTION D: FEEDBACK AND ASSESSMENT
+-----------------------------------------------------------------
+
+12. Feedback on my scenario submissions was timely.
+    1    2    3    4    5
+
+13. Feedback was specific and actionable.
+    1    2    3    4    5
+
+14. Feedback helped me improve my scenario writing skills.
+    1    2    3    4    5
+
+15. The assessments accurately measured my understanding.
+    1    2    3    4    5
+
+16. I had enough opportunities to practice what I learned.
+    1    2    3    4    5
+
+-----------------------------------------------------------------
+SECTION E: DELIVERY AND ENGAGEMENT
+-----------------------------------------------------------------
+
+17. The training held my attention and interest.
+    1    2    3    4    5
+
+18. The pace of the training was appropriate.
+    1    2    3    4    5
+
+19. The training was interactive and engaging.
+    1    2    3    4    5
+
+20. Technical issues did not significantly disrupt my learning.
+    1    2    3    4    5
+
+21. The platform/system was easy to use.
+    1    2    3    4    5
+
+-----------------------------------------------------------------
+SECTION F: OUTCOMES AND APPLICATION
+-----------------------------------------------------------------
+
+22. I feel more confident in my BDD skills after this training.
+    1    2    3    4    5
+
+23. I can apply what I learned to real projects.
+    1    2    3    4    5
+
+24. This training improved my ability to write clear scenarios.
+    1    2    3    4    5
+
+25. This training improved my understanding of stakeholder needs.
+    1    2    3    4    5
+
+26. I would be able to teach BDD basics to someone else.
+    1    2    3    4    5
+
+-----------------------------------------------------------------
+SECTION G: OVERALL SATISFACTION
+-----------------------------------------------------------------
+
+27. Overall, I am satisfied with this training.
+    1    2    3    4    5
+
+28. This training met my expectations.
+    1    2    3    4    5
+
+29. I would recommend this training to colleagues.
+    1    2    3    4    5
+
+30. This training was worth the time invested.
+    1    2    3    4    5
+
+-----------------------------------------------------------------
+SECTION H: OPEN-ENDED FEEDBACK
+-----------------------------------------------------------------
+
+31. What did you like most about the training?
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+32. What did you like least about the training?
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+33. What topics would you like to learn more about?
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+34. What suggestions do you have for improving the training?
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+35. Additional comments:
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+=================================================================
+Thank you for your feedback!
+=================================================================

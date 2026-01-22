@@ -1,0 +1,76 @@
+=================================================================
+ADAPTIVE BDD TRAINING MODEL (ABTM) RESEARCH STUDY
+Module Completion Form
+=================================================================
+
+Participant ID: _______________
+Module: ☐ Module 1  ☐ Module 2  ☐ Module 3  ☐ Module 4
+Date Completed: _______________
+Time Spent: __________ minutes
+
+-----------------------------------------------------------------
+UNDERSTANDING CHECK
+-----------------------------------------------------------------
+
+1. How well do you understand the concepts covered in this module?
+
+   ☐ Fully understand
+   ☐ Mostly understand
+   ☐ Somewhat understand
+   ☐ Struggling to understand
+   ☐ Do not understand
+
+2. Which topic(s) in this module were most clear to you?
+
+   ______________________________________________________________
+
+3. Which topic(s) in this module need more clarification?
+
+   ______________________________________________________________
+
+-----------------------------------------------------------------
+DIFFICULTY ASSESSMENT
+-----------------------------------------------------------------
+
+4. How difficult was this module for you?
+
+   ☐ Too easy
+   ☐ Appropriately challenging
+   ☐ Somewhat difficult
+   ☐ Very difficult
+   ☐ Too difficult
+
+5. Did you require additional practice in this module?
+
+   ☐ Yes  ☐ No
+
+   If yes, which topics? ________________________________________
+
+-----------------------------------------------------------------
+ENGAGEMENT
+-----------------------------------------------------------------
+
+6. How engaging was this module?
+
+   1 (Not engaging) - 2 - 3 - 4 - 5 (Very engaging)
+
+7. Were the examples helpful?
+
+   ☐ Very helpful  ☐ Somewhat helpful  ☐ Not helpful
+
+-----------------------------------------------------------------
+READINESS
+-----------------------------------------------------------------
+
+8. Do you feel ready to move to the next module?
+
+   ☐ Definitely ready
+   ☐ Probably ready
+   ☐ Need more practice
+   ☐ Need to review this module
+
+9. What would help you feel more prepared for the next module?
+
+   ______________________________________________________________
+
+=================================================================
